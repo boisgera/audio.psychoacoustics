@@ -2,7 +2,7 @@
 
 metadata = dict(
   __name__        = "audio.psychoacoustics",
-  __version__     = "1.0.1",
+  __version__     = "1.0.2",
   __license__     = "MIT License",  
   __author__      = u"Sébastien Boisgérault <Sebastien.Boisgerault@mines-paristech.fr>",
   __url__         = None,
