@@ -10,7 +10,7 @@ __version__ = "trunk"
 # Third-Party Librairies
 from numpy import *
 from scipy.optimize import fsolve
-from audio.fourtier import *
+from audio.fourier import *
 
 #
 # Metadata
